@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+<h1 align="center">I'm Furkan, backend developer from Turkey</h1>
 
-- 🔭 I’m currently working on [Rotating Pong](https://github.com/Asharax/RotatingPong)
+- 🔭 I’m currently working on: [SteamPriceDif](https://github.com/Asharax/steam-get-price-dif)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Asharax/](https://github.com/Asharax/)
+- 👨‍💻 All of my projects:  [https://github.com/Asharax/](https://github.com/Asharax/)
 
-- 📫 How to reach me **furkaan.aytan@gmail.com**
+- 📫 You can reach me here: **furkaan.aytan@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
