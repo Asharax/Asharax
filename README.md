@@ -1,4 +1,4 @@
-<h1 align="center">I'm Furkan, backend developer from Turkey</h1>
+<h2 align="left">I'm Furkan, backend developer and computer Engineer graduate </h2>
 
 - 🔭 I’m currently working on: [SteamPriceDif](https://github.com/Asharax/steam-get-price-dif)
 
