@@ -6,6 +6,8 @@
 
 - 📫 You can reach me here: **furkaan.aytan@gmail.com**
 
+- Discord: azsharax
+
 
 <p align="left">
 </p>
