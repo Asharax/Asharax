@@ -4,7 +4,7 @@
 
 - 📧 contact: **furkaan.aytan@gmail.com**
 
-- 📍 Singapore PR Status — eligible to work without employer quota
+- 📍 Singapore PLOC — eligible to work without employer quota
 
 <p align="left">
 </p>
