@@ -1,4 +1,4 @@
-<h2 align="left">Furkan — Backend Developer</h2>
+<h2 align="left">Furkan — Java Backend Developer</h2>
 
 - 🕹️ Current project: [SteamPriceDif](https://github.com/Asharax/steam-get-price-dif)
 
