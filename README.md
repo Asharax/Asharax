@@ -4,7 +4,7 @@
 
 - 📧 contact: **furkaan.aytan@gmail.com**
 
-- 📍 Singapore PLOC — eligible to work without employer quota
+- 📍 Singapore LTVP+PLOC — eligible to work without using foreigner employee quota.
 
 <p align="left">
 </p>
